@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="datotekaPoveznica">poveznice.xml</entry>
+<entry key="prikaziKontakte">true</entry>
+<entry key="prikaziKorisneDatoteke">true</entry>
+<entry key="koordinateAplikacijeY">0</entry>
+<entry key="koordinateAplikacijeX">0</entry>
+<entry key="datotekaPrognoze">prognoza.xml</entry>
+<entry key="datotekaKorisnihDatoteka">korisneDatoteke.xml</entry>
+<entry key="nazivAplikacije">asistent</entry>
+<entry key="prikaziRadije">true</entry>
+<entry key="mapaResursa">resursi/</entry>
+<entry key="mapaKorisnihDatoteka">korisneDatoteke/</entry>
+<entry key="prikaziPrognozu">true</entry>
+<entry key="putanjaDatotekeMeteoDanas">meteoTrenutno.txt</entry>
+<entry key="datotekaPrecaca">precaci.xml</entry>
+<entry key="prikaziPodsjetnike">true</entry>
+<entry key="vrstaObrubaPocetnogFramea">1</entry>
+<entry key="prikaziUredivanje">false</entry>
+<entry key="aktivniBrojStranicePodsjetnika">1</entry>
+<entry key="datotekaRacunanjaDana">racunanjeDana.xml</entry>
+<entry key="omoguciOsvjezavanjeIPostavke">true</entry>
+<entry key="bojaGlavneForme">(0,0,0,0)</entry>
+<entry key="brojPodsjetnikaPoStranici">2</entry>
+<entry key="datotekaPodsjetnika">podsjetnici.xml</entry>
+<entry key="URLStraniceResursa">https://ahilisaplikacije.000webhostapp.com/</entry>
+<entry key="mapaIkona">icons/</entry>
+<entry key="sinkronizacijaIkona">false</entry>
+<entry key="datotekaSata">sat.xml</entry>
+<entry key="datotekaKontakata">kontakti.xml</entry>
+<entry key="meteoOMWKey">508677720ef8cc355645dce949620fbb</entry>
+<entry key="sinkronizacijaUkljucena">false</entry>
+<entry key="brojDanaZaPrikazPrognoze">3</entry>
+<entry key="datotekaRadija">radio.xml</entry>
+<entry key="prikaziPrecace">true</entry>
+<entry key="prikaziPoveznice">true</entry>
+<entry key="vrstaObrubaOstalihFrameova">2</entry>
+<entry key="putanjaDatotekeMeteoPrognoza">meteoPrognoza.txt</entry>
+<entry key="mozeSeMicati">false</entry>
+<entry key="datotekaUredivanja">uredivanje.xml</entry>
+<entry key="cekanjeIzmeduPritiskaTipkeUDesetkamaSekundi">1</entry>
+<entry key="prikaziRacunanjeDana">true</entry>
+<entry key="meteoGradDrzava">Trnovec,HR</entry>
+<entry key="aplikacijeZaKojeRadi">NBMIS, Unos, Evidencije, Rješavanje</entry>
+</properties>

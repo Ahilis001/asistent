@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="putanjaPrecaca">resursi/precaci.xml</entry>
+<entry key="putanjaPodsjetnika">resursi/podsjetnici.xml</entry>
+<entry key="putanjaPoveznica">resursi/poveznice.xml</entry>
+<entry key="putanjaRadija">resursi/radio.xml</entry>
+<entry key="koordinateAplikacijeY">0</entry>
+<entry key="koordinateAplikacijeX">0</entry>
+<entry key="prikaziObavijestiIPostavke">0</entry>
+<entry key="prikaziPrecace">1</entry>
+<entry key="prikaziPodsjetnike">1</entry>
+<entry key="prikaziUredivanje">1</entry>
+<entry key="prikaziPoveznice">1</entry>
+<entry key="prikaziRadije">1</entry>
+<entry key="cekanjeIzmeduPritiskaTipkeUDesetkamaSekundi">1</entry>
+<entry key="syncDatoteka">resursi/sync.txt</entry>
+<entry key="nazivAplikacije">asistent</entry>
+<entry key="kalendar">https://calendar.google.com/calendar/ical/djuras.ivan%40gmail.com/private-09e0904baa6d1dfcc6ec1b99da8d2d66/basic.ics</entry>
+</properties>

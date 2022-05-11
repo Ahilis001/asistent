@@ -1,0 +1,177 @@
+<root>
+	<precaci>
+
+		<precac>
+			<opis>OK</opis>
+			<tipka>107</tipka>
+			<operacija>8;OK;17-:-9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>HZJZ</opis>
+			<tipka>109</tipka>
+			<operacija>8;UPUTA HZJZ;17-:-9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>razlog (domaći) - osobni</opis>
+			<tipka>113</tipka>
+			<operacija>;9;9;9;9;9;40;9;9;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>razlog (domaći) - poslovni</opis>
+			<tipka>114</tipka>
+			<operacija>9;9;9;9;9;40;40;40;9;9;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>razlog (domaći) - prometno osoblje</opis>
+			<tipka>115</tipka>
+			<operacija>9;9;9;9;9;40;40;40;40;9;9;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>mjera - neg. BAT test</opis>
+			<tipka>116</tipka>
+			<operacija>40;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>mjera - izuzeci</opis>
+			<tipka>117</tipka>
+			<operacija>40;40;40;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>mjera - cijepljenje</opis>
+			<tipka>118</tipka>
+			<operacija>40;40;40;40;40;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>mjera - oporavak</opis>
+			<tipka>119</tipka>
+			<operacija>40;40;40;40;40;40;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>razlog - turistički</opis>
+			<tipka>120</tipka>
+			<operacija>9;9;9;9;9;9;9;40;40;9;9;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>razlog - osobni</opis>
+			<tipka>121</tipka>
+			<operacija>9;9;9;9;9;9;9;40;9;9;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>razlog - poslovni</opis>
+			<tipka>122</tipka>
+			<operacija>9;9;9;9;9;9;9;40;40;40;9;9;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>razlog - prometno osoblje</opis>
+			<tipka>123</tipka>
+			<operacija>9;9;9;9;9;9;9;40;40;40;40;9;9;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>prometno osoblje - domaći</opis>
+			<tipka>19</tipka>
+			<operacija>40;40;40;9;9;9;9;9;48;48;9;9;40;40;40;40;9;9;9;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>stat. - EU i EGP (bez RH)</opis>
+			<tipka>33</tipka>
+			<operacija>16x9;32;6x9;32;15x9;32;4x9;32;3x9;32;2x9;32;11x9;32;6x9;32;1x9;32;7x9;32;20x9;32;3x9;32;32x9;32;6x9;32;1x9;32;2x9;32;6x9;32;24x9;32;2x9;32;2x9;32;15x9;32;2x9;32;3x9;32;14x9;32;1x9;32;14x9;32;2x9;32;1x9;32</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>stat. - RH</opis>
+			<tipka>34</tipka>
+			<operacija>86x9;32</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>minimizacije</opis>
+			<tipka>35</tipka>
+			<operacija>27;27;524-:-40</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>true</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>maksimizacija</opis>
+			<tipka>36</tipka>
+			<operacija>524-:-16-:-77;18-:-9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>true</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>pogranična - RH za SLO</opis>
+			<tipka>49</tipka>
+			<operacija>9x40;9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+		<precac>
+			<opis>pogranična - strana</opis>
+			<tipka>50</tipka>
+			<operacija>16x40;6x9;slove;9;16-:-9;16-:-9;16-:-9;16-:-9;16-:-9;16-:-9</operacija>
+			<prikazi>true</prikazi>
+			<sveAplikacije>false</sveAplikacije>
+		</precac>
+
+	</precaci>
+
+	<postavke>
+		<koordinate>(0,2,1,2)</koordinate>
+		<bojaPozadinePanela>(0,0,0,255)</bojaPozadinePanela>
+		<bojaFontaPanela>(0,255,0)</bojaFontaPanela>
+		<bojaFontaNaslovaPanela>(0,255,0)</bojaFontaNaslovaPanela>
+		<velicinaFontaNaslovaPanela>11</velicinaFontaNaslovaPanela>
+		<velicinaFontaTekstaPanela>11</velicinaFontaTekstaPanela>
+		<vrstaFontaNaslovaPanela>Tahoma</vrstaFontaNaslovaPanela>
+		<vrstaFontaTekstaPanela>Tahoma</vrstaFontaTekstaPanela>
+		<naziv>Prečaci</naziv>
+	</postavke>
+</root>

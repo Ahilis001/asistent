@@ -1,0 +1,83 @@
+<root>
+	<radiji>
+
+		<radio>
+			<naziv>Rock 101</naziv>
+			<URL>https://live.leanstream.co/CFMIFM-MP3-2</URL>
+			<prikazi>true</prikazi>
+		</radio>
+
+		<radio>
+			<naziv>Rock FM</naziv>
+			<URL>https://retro.babahhcdn.com/rck</URL>
+			<prikazi>true</prikazi>
+		</radio>
+
+		<radio>
+			<naziv>Virgin Radio</naziv>
+			<URL>https://icecast.unitedradio.it/Virgin.mp3</URL>
+			<prikazi>false</prikazi>
+		</radio>
+
+		<radio>
+			<naziv>Rock Antenne</naziv>
+			<URL>https://mp3channels.webradio.rockantenne.de/rockantenne</URL>
+			<prikazi>true</prikazi>
+		</radio>
+
+		<radio>
+			<naziv>--------------</naziv>
+			<URL>----------------</URL>
+			<prikazi>false</prikazi>
+		</radio>
+
+		<radio>
+			<naziv>RockMaribor</naziv>
+			<URL>http://live.radio.si:8000/RockMB</URL>
+			<prikazi>false</prikazi>
+		</radio>
+
+		<radio>
+			<naziv>Sjeverozapad</naziv>
+			<URL>https://azuracast.novi-net.net/radio/8000/sjeverozapad.aac</URL>
+			<prikazi>false</prikazi>
+		</radio>
+
+		<radio>
+			<naziv>Mediaservis</naziv>
+			<URL>http://live.mediaservis.hr:8084/</URL>
+			<prikazi>false</prikazi>
+		</radio>
+
+		<radio>
+			<naziv>94-9 The Rock</naziv>
+			<URL>http://ice24.securenetsystems.net/KPKY</URL>
+			<prikazi>false</prikazi>
+		</radio>
+
+		<radio>
+			<naziv>Rock Radio</naziv>
+			<URL>http://stream.rockradio.si:9034/rock</URL>
+			<prikazi>false</prikazi>
+		</radio>
+
+		<radio>
+			<naziv>sloziti dretvu</naziv>
+			<URL>http://stream.rockradio.si:903</URL>
+			<prikazi>false</prikazi>
+		</radio>
+
+	</radiji>
+
+	<postavke>
+		<koordinate>(2,4,1,1)</koordinate>
+		<bojaPozadinePanela>(0,0,0,255)</bojaPozadinePanela>
+		<bojaFontaPanela>(0,255,0)</bojaFontaPanela>
+		<bojaFontaNaslovaPanela>(0,255,0)</bojaFontaNaslovaPanela>
+		<velicinaFontaNaslovaPanela>11</velicinaFontaNaslovaPanela>
+		<velicinaFontaTekstaPanela>11</velicinaFontaTekstaPanela>
+		<vrstaFontaNaslovaPanela>Tahoma</vrstaFontaNaslovaPanela>
+		<vrstaFontaTekstaPanela>Tahoma</vrstaFontaTekstaPanela>
+		<naziv>Radio</naziv>
+	</postavke>
+</root>

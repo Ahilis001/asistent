@@ -1,0 +1,40 @@
+<root>
+	<poveznice>
+
+		<poveznica>
+			<opis>google</opis>
+			<URL>https://google.com</URL>
+			<prikazi>true</prikazi>
+		</poveznica>
+
+		<poveznica>
+			<opis>njuškalo</opis>
+			<URL>https://www.njuskalo.hr/</URL>
+			<prikazi>true</prikazi>
+		</poveznica>
+
+		<poveznica>
+			<opis>RockMaribor</opis>
+			<URL>https://rockmaribor.si/live/</URL>
+			<prikazi>true</prikazi>
+		</poveznica>
+
+		<poveznica>
+			<opis>24 sata</opis>
+			<URL>https://www.24sata.hr/</URL>
+			<prikazi>true</prikazi>
+		</poveznica>
+	</poveznice>
+
+	<postavke>
+		<koordinate>(1,4,1,1)</koordinate>
+		<bojaPozadinePanela>(0,0,0,255)</bojaPozadinePanela>
+		<bojaFontaPanela>(0,255,0)</bojaFontaPanela>
+		<bojaFontaNaslovaPanela>(0,255,0)</bojaFontaNaslovaPanela>
+		<velicinaFontaNaslovaPanela>11</velicinaFontaNaslovaPanela>
+		<velicinaFontaTekstaPanela>11</velicinaFontaTekstaPanela>
+		<vrstaFontaNaslovaPanela>Tahoma</vrstaFontaNaslovaPanela>
+		<vrstaFontaTekstaPanela>Tahoma</vrstaFontaTekstaPanela>
+		<naziv>Poveznice</naziv>
+	</postavke>
+</root>

@@ -1,0 +1,13 @@
+<root>
+	<postavke>
+		<koordinate>(3,0,1,2)</koordinate>
+		<bojaPozadinePanela>(0,0,0,255)</bojaPozadinePanela>
+		<bojaFontaPanela>(0,255,0)</bojaFontaPanela>
+		<bojaFontaNaslovaPanela>(0,255,0)</bojaFontaNaslovaPanela>
+		<velicinaFontaNaslovaPanela>11</velicinaFontaNaslovaPanela>
+		<velicinaFontaTekstaPanela>11</velicinaFontaTekstaPanela>
+		<vrstaFontaNaslovaPanela>Tahoma</vrstaFontaNaslovaPanela>
+		<vrstaFontaTekstaPanela>Tahoma</vrstaFontaTekstaPanela>
+		<naziv>Uređivanje</naziv>
+	</postavke>
+</root>

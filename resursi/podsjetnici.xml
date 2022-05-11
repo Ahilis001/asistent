@@ -1,0 +1,21 @@
+<root>
+	<podsjetnici>
+
+		<podsjetnik>
+			<opis>test</opis>
+			<pocetak></pocetak>
+			<kraj></kraj>
+		</podsjetnik>
+	</podsjetnici >
+	<postavke>
+		<koordinate>(0,1,3,1)</koordinate>
+		<bojaPozadinePanela>(0,0,0,255)</bojaPozadinePanela>
+		<bojaFontaPanela>(0,255,0)</bojaFontaPanela>
+		<bojaFontaNaslovaPanela>(0,255,0)</bojaFontaNaslovaPanela>
+		<velicinaFontaNaslovaPanela>11</velicinaFontaNaslovaPanela>
+		<velicinaFontaTekstaPanela>11</velicinaFontaTekstaPanela>
+		<vrstaFontaNaslovaPanela>Tahoma Tahoma Podsjetnici</vrstaFontaNaslovaPanela>
+		<vrstaFontaTekstaPanela>Tahoma Podsjetnici</vrstaFontaTekstaPanela>
+		<naziv>Podsjetnici</naziv>
+	</postavke>
+</root>

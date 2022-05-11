@@ -1,0 +1,27 @@
+<root>
+	<kontakti>
+
+		
+
+		<kontakt>
+			<uprava>test</uprava>
+			<postaja>test</postaja>
+			<imeNaziv>test</imeNaziv>
+			<broj>test</broj>
+			<prikazi>true</prikazi>
+		</kontakt>
+
+	</kontakti>
+
+	<postavke>
+		<koordinate>(1,0,2,1)</koordinate>
+		<bojaPozadinePanela>(0,0,0,255)</bojaPozadinePanela>
+		<bojaFontaPanela>(0,255,0)</bojaFontaPanela>
+		<bojaFontaNaslovaPanela>(0,255,0)</bojaFontaNaslovaPanela>
+		<velicinaFontaNaslovaPanela>11</velicinaFontaNaslovaPanela>
+		<velicinaFontaTekstaPanela>11</velicinaFontaTekstaPanela>
+		<vrstaFontaNaslovaPanela>Tahoma</vrstaFontaNaslovaPanela>
+		<vrstaFontaTekstaPanela>Tahoma</vrstaFontaTekstaPanela>
+		<naziv>Kontakti</naziv>
+	</postavke>
+</root>
